@@ -1,4 +1,4 @@
-# Gaming Gun Project
+# Gaming Gun 
 
 This project aims to enhance the mobile gaming experience by simulating touch inputs on the screen using a gaming gun. It leverages the Android Debug Bridge (ADB) for touch simulation, where processing occurs on a Raspberry Pi that controls button inputs from the user. it enhances your Real time gaming experience.
 
